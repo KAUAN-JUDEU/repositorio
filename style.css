@@ -1,0 +1,42 @@
+.corpodosite{
+    color: white;
+    font-size: 20px;
+}
+
+.luta{
+    background-image: linear-gradient(black,orange);
+    color: white;
+    display: flex;
+    padding: 24px 0;
+    justify-content: space-around;
+}
+
+.Freeza{
+    background-image: linear-gradient(orange,rgb(98, 98, 146));
+    padding: 100px;
+    justify-content: center;
+}
+
+.soco{
+    background-image: linear-gradient(rgb(98, 98, 146),black);
+    padding: 100px;
+}
+
+.cabecalho-imagem{
+    width: 15%;
+}
+
+.rodape{
+    background-image: linear-gradient(black,orange);
+    color: white;
+}
+
+.serio{
+    padding-right: 20cm;
+    width: 20cm;
+}
+
+.bater{
+    padding-right: 20cm;
+    width: 20cm;
+}
